@@ -1,0 +1,18 @@
+### Chapter 2: Recurrent Neural Networks (RNNs)
+
+## Lesson 1: Introduction to Recurrent Neural Networks
+1. [Generate a descriptive caption](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning)
+2. [Sketch RNN Demo](https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html)
+3. [Vanishing Gradient](https://en.wikipedia.org/wiki/Vanishing_gradient_problem)
+4. [DotA 2 bot by Open AI]()
+5. [Adding sounds to silent movies]()
+6. [Handwriting Generation]()
+7. [Amazon Lex]()
+8. [Building Language Models]()
+9. [Netflix RNNs](https://arxiv.org/pdf/1511.06939.pdf)
+10. []()
+11. []()
+12. []()
+13. []()
+14. []()
+15. []()
