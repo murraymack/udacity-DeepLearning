@@ -20,3 +20,9 @@
 17. [Curriculum - cs231 Andrej Karpathy, Tuning Learning Rates](https://cs231n.github.io/neural-networks-3/#baby)
 18. [Paper - Elman Network (Elman 1990)](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1402_1)
 19. [Paper - Gradient Clipping (Bengio 2013)](https://arxiv.org/abs/1211.5063)
+20. [Paper - LSTMs / Long Short-Term Memory (Hocreiter 1997)](http://www.bioinf.jku.at/publications/older/2604.pdf)
+
+### Lesson 2: Long Short-Term Memory Networks
+1. [Blog Post - Understanding LSTM Networks (Chris Olah)](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+2. [Blog Post - Exploring LSTMs (Edwin Chen)](http://blog.echen.me/2017/05/30/exploring-lstms/)
+3. [Video - cs231 Andrej Karpathy, RNNs, Image Captioning, LSTM](https://www.youtube.com/watch?v=iX5V1WpxxkY)
