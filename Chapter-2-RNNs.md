@@ -1,6 +1,6 @@
-### Chapter 2: Recurrent Neural Networks (RNNs)
+## Chapter 2: Recurrent Neural Networks (RNNs)
 
-## Lesson 1: Introduction to Recurrent Neural Networks
+### Lesson 1: Introduction to Recurrent Neural Networks
 1. [Generate a descriptive caption](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning)
 2. [Sketch RNN Demo](https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html)
 3. [Vanishing Gradient](https://en.wikipedia.org/wiki/Vanishing_gradient_problem)
