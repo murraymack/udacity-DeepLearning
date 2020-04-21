@@ -17,5 +17,5 @@
 14. [Common Derivatives Cheatsheet](http://tutorial.math.lamar.edu/pdf/Common_Derivatives_Integrals.pdf)
 15. [Tuning Learning Rates in Gradient Descent](http://blog.datumbox.com/tuning-the-learning-rate-in-gradient-descent/)
 16. ['Bold Driver' Gradient Descent Optimization](https://cnl.salk.edu/~schraudo/teach/NNcourse/momrate.html)
-17. [cs231 Andrej Karpathyu, Tuning Learning Rates](https://cnl.salk.edu/~schraudo/teach/NNcourse/momrate.html)
+17. [cs231 Andrej Karpathy, Tuning Learning Rates](https://cnl.salk.edu/~schraudo/teach/NNcourse/momrate.html)
 18. 
