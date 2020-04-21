@@ -10,7 +10,7 @@
 7. [Amazon Lex]()
 8. [Building Language Models]()
 9. [Netflix RNNs](https://arxiv.org/pdf/1511.06939.pdf)
-10. []()
+10. [Activation Functions Refresher](https://github.com/Kulbear/deep-learning-nano-foundation/wiki/ReLU-and-Softmax-Activation-Functions)
 11. []()
 12. []()
 13. []()
