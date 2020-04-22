@@ -1,4 +1,4 @@
-## Chapter 2: Recurrent Neural Networks (RNNs)
+## Chapter 3: Recurrent Neural Networks (RNNs)
 
 ### Lesson 1: Introduction to Recurrent Neural Networks
 1. [Code - Generate a descriptive caption](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning)
