@@ -27,3 +27,6 @@
 2. [Blog Post - Exploring LSTMs (Edwin Chen)](http://blog.echen.me/2017/05/30/exploring-lstms/)
 3. [Video - cs231 Andrej Karpathy, RNNs, Image Captioning, LSTM](https://www.youtube.com/watch?v=iX5V1WpxxkY)
 4. [Lecture - Gated Recurrent Units (Guerzhoy 2016)](http://www.cs.toronto.edu/~guerzhoy/321/lec/W09/rnn_gated.pdf)
+
+### Lesson 3: Implementation of RNN & LSTM
+1. [Code - Simple_RNN.pynb (Udacity)](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/time-series/Simple_RNN.ipynb)
