@@ -26,3 +26,4 @@
 1. [Blog Post - Understanding LSTM Networks (Chris Olah)](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 2. [Blog Post - Exploring LSTMs (Edwin Chen)](http://blog.echen.me/2017/05/30/exploring-lstms/)
 3. [Video - cs231 Andrej Karpathy, RNNs, Image Captioning, LSTM](https://www.youtube.com/watch?v=iX5V1WpxxkY)
+4. [Lecture - Gated Recurrent Units (Guerzhoy 2016)](http://www.cs.toronto.edu/~guerzhoy/321/lec/W09/rnn_gated.pdf)
